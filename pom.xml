@@ -8,7 +8,7 @@
 	<groupId>ch.raiffeisen.seuj.wlp</groupId>
 	<artifactId>Proj-test1</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>Proj-test1</name>
 	<url>http://maven.apache.org</url>
 
