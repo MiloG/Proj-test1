@@ -18,6 +18,7 @@
 	</scm>
 
 	<properties>
+		<git.repository>https://github.com/MiloG/Proj-test1.BLD.git</git.repository>
 		<timestamp>${maven.build.timestamp}</timestamp>
 		<maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
 	</properties>
