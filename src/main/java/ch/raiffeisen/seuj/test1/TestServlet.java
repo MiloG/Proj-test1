@@ -70,6 +70,8 @@ public class TestServlet extends HttpServlet {
 			writer.append(" - Connected");
 			Properties ci = con.getClientInfo();
 			ci.list(new PrintWriter(writer));
+			con.close();
+		
 			
 		} catch (SQLException e) {
 			writer.append(" - Could not connect!!! \n");
